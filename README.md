@@ -7,7 +7,10 @@ This is from a _Git Module_ of a **Web Development** course.
 3. Added README.md
 
 ### Table
-| Header1 | Header2 | Header3|
-| Item1 | Item2 | Item3 | 
+
+| Header 1    |  Header 2   |    Header 3 |
+| :---------- | :---------: | ----------: |
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
 
 > This is just a demonstration
